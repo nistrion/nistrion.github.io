@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nistrion.github.io/nistrion.txt.gz
+Sitemap: https://nistrion.github.io/app/nistrion.txt.gz
+Sitemap: https://nistrion.github.io/assets/nistrion.txt.gz
+Sitemap: https://nistrion.github.io/css/nistrion.txt.gz
+Sitemap: https://nistrion.github.io/includes/nistrion.txt.gz
+Sitemap: https://nistrion.github.io/item/nistrion.txt.gz
+Sitemap: https://nistrion.github.io/src/nistrion.txt.gz
